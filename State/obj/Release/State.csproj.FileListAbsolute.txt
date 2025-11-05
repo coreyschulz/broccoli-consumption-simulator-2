@@ -1,0 +1,49 @@
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\State.dll
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\State.pdb
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\Assets.dll
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\MonoGame.Framework.dll
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.XAudio2.dll
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.dll
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.DXGI.dll
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.Direct3D11.dll
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.Direct2D1.dll
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.XInput.dll
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.MediaFoundation.dll
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\Assets.pdb
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\MonoGame.Framework.xml
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.XAudio2.xml
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.xml
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.DXGI.xml
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.Direct3D11.xml
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.Direct2D1.xml
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.XInput.xml
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.MediaFoundation.xml
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\obj\Release\State.csprojAssemblyReference.cache
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\obj\Release\State.csproj.CoreCompileInputs.cache
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\obj\Release\State.csproj.CopyComplete
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\obj\Release\State.dll
+C:\Users\ztstr\Desktop\Projects\Programming\Visual Studio\FuckHackTheULetsMakeBCS2\State\obj\Release\State.pdb
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\State.dll
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\State.pdb
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\Assets.dll
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.XAudio2.dll
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.dll
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.DXGI.dll
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.Direct3D11.dll
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.Direct2D1.dll
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.XInput.dll
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.MediaFoundation.dll
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\Assets.pdb
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\MonoGame.Framework.xml
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.XAudio2.xml
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.xml
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.DXGI.xml
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.Direct3D11.xml
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.Direct2D1.xml
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.XInput.xml
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\bin\Release\SharpDX.MediaFoundation.xml
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\obj\Release\State.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\obj\Release\State.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\obj\Release\State.csproj.CopyComplete
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\obj\Release\State.dll
+\\Mac\Home\Desktop\FuckHackTheULetsMakeBCS2\State\obj\Release\State.pdb

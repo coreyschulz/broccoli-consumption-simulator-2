@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/ztstr/Desktop/Projects/Programming/Visual Studio/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/zak/original/bcsfont.spritefont</SourceFile>
+  <SourceTime>2018-09-09T01:19:27.7852095-06:00</SourceTime>
+  <DestFile>C:/Users/ztstr/Desktop/Projects/Programming/Visual Studio/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/bin/Windows/zak/original/bcsfont.xnb</DestFile>
+  <DestTime>2018-09-09T01:19:35.8398473-06:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T08:05:36-07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T08:05:36-07:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

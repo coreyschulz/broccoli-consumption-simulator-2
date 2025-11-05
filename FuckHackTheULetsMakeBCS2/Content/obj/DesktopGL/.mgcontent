@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/corey/bcman.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/corey/bcman_done.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/corey/bcsFont.spritefont</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/corey/bcsFont2.spritefont</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/corey/broccoli.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/corey/default.mp3</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/corey/fight.mp3</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/corey/home.jpg</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/corey/notFight.mp3</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/corey/rectangleBase.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/corey/ruinedWorld.jpg</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/corey/samsung.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/mason_assets/arial_font.spritefont</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/mason_assets/BC_theme.wav</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/mason_assets/bcs_man.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/mason_assets/boy.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/mason_assets/cocaine.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/mason_assets/demo_image.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/mason_assets/drug_needle.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/mason_assets/girl.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/mason_assets/pill.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/zak/bullet/bcman.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/zak/bullet/bullet.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/zak/bullet/samsung.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/zak/bullet/undertale.ogg</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/zak/bullet/yell.wav</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/zak/original/bcman.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/zak/original/bcman_left.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/zak/original/bcman_new.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/zak/original/bcman_right.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/zak/original/bcsfont.spritefont</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/zak/original/brocolli.png</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/zak/original/epic.mp3</File>
+    <File>/Users/coreyschulz/Library/Mobile Documents/com~apple~CloudDocs/Unclutter Files/RPSBCS/BCS CODE/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/zak/original/sakura_ost.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

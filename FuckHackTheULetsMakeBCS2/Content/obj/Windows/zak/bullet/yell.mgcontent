@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/ztstr/Desktop/Projects/Programming/Visual Studio/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/zak/bullet/yell.wav</SourceFile>
+  <SourceTime>2018-09-09T16:00:27.8994001-06:00</SourceTime>
+  <DestFile>C:/Users/ztstr/Desktop/Projects/Programming/Visual Studio/FuckHackTheULetsMakeBCS2/FuckHackTheULetsMakeBCS2/Content/bin/Windows/zak/bullet/yell.xnb</DestFile>
+  <DestTime>2018-09-09T16:01:10.3993016-06:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T08:05:36-07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T08:05:36-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
